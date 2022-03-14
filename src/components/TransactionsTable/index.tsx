@@ -28,12 +28,6 @@ export function TransactionsTable() {
                         <td>Desenvolvimento</td>
                         <td>20/02/2022</td>
                     </tr>
-                    <tr>
-                        <td>Aluguel</td>
-                        <td className="withdraw">- R$1.000</td>
-                        <td>Casa</td>
-                        <td>15/02/2022</td>
-                    </tr>
                 </tbody>
             </table>
         </Container>
